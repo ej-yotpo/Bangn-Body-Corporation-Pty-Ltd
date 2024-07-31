@@ -57,7 +57,7 @@ function StarRating(props) {
                 ></div>
               </section>
 
-              <section>
+              <section style="display:none;">
                 <h1>Collections Star Rating</h1>
                 <div
                   className="yotpo-widget-instance"
